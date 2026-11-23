@@ -1,0 +1,13 @@
+# Rules for the assistant in this repository (format: /data/md/architecture/claude/rules-files.md). Only the user edits this file.
+
+[ask write]
+/src/engine.ts
+/src/index-store.ts
+/src/append.ts
+/src/atomic.ts
+/src/migrate.ts
+/src/export-filter.ts
+/src/commands.ts
+/src/index.ts
+/src/public.ts
+/src/deps/project.ts
