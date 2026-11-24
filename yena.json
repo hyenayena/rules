@@ -1,10 +1,11 @@
 {
 	"name": "rules",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "The .yenarules engine, its index and the rules command",
 	"runtime": "node",
 	"entry": "src/index.ts",
 	"host": "^0.11.0",
+	"export": {"deny": ["**"]},
 	"dependencies": {
 		"core": {
 			"source": "core",
