@@ -11,3 +11,6 @@
 /src/index.ts
 /src/public.ts
 /src/deps/project.ts
+
+[deny export]
+@**
